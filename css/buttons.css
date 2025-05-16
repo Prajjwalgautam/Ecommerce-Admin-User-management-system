@@ -1,0 +1,19 @@
+button.btn.btn-info.btn-sm.view-btn {
+  border-radius: 24px;
+  background: white;
+  color: black;
+  border: 1px solid #cec5c5;
+}
+
+button.btn.btn-primary.btn-sm.edit-btn {
+  border-radius: 24px;
+  background: white;
+  color: black;
+  border: 1px solid #cec5c5;
+}
+button.btn.btn-danger.btn-sm.delete-btn {
+  border-radius: 24px;
+  background: white;
+  color: black;
+  border: 1px solid #cec5c5;
+}
